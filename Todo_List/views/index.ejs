@@ -1,0 +1,27 @@
+<!--
+   index.ejs is the main page of the application.
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Todo List</title>
+</head>
+<body>
+    <h2>Todo List</h2>
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Task</th>
+            <th>Completed</th>
+        </tr>
+        <% data.forEach(element) { %>
+            <tr>
+                <td><%= element.id %></td>
+                <td><%= element.task %></td>
+                <td><%= element.completed %></td>
+            </tr>
+        <% } %>
+    </table>
+</body>
+</html>
