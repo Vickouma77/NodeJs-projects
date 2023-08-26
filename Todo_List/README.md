@@ -10,7 +10,7 @@
 
 ## About <a name = "about"></a>
 
-This is a simple todo list application that allows you to add, delete, and mark tasks as complete. It is built using ```nodeJS```, ```express```, and ```mongoDB```.
+This is a simple todo list application that allows you to add, delete, and mark tasks as complete. It is built using ```nodeJS```, ```express```, ```ejs``` and ```mongoDB```.
 
 ## Getting Started <a name = "getting_started"></a>
 
