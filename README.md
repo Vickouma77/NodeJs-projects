@@ -1,7 +1,6 @@
 # NodeJs-projects
 This repository contains all the projects I have done using NodeJs, MongoDB, HTML, CSS, and JavaScript.
 
-
 ## Table of Contents
 | Project | Description |
 | ------- | ----------- |
