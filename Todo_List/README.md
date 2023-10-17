@@ -34,4 +34,3 @@ To run the application, run ```npm start``` in the root directory. The applicati
 
 ## Contributing <a name = "contributing"></a>
 
-If you would like to contribute to this project, please open an issue and/or create a pull request.
