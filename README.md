@@ -5,6 +5,3 @@ This repository contains all the projects I have done using NodeJs, MongoDB, HTM
 | Project | Description |
 | ------- | ----------- |
 | [**`1. Todo-List application`**] | A simple todo list application using NodeJs, MongoDB, HTML, CSS,  |
-
-
-
